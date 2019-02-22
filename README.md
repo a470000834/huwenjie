@@ -98,18 +98,6 @@
     - [第二周（2018-8-13）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
     - [第三周（2018-08-22）](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/这几道Java集合框架面试题几乎必问.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
     - [第四周(2018-8-30).md](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/最最最常见的Java面试题总结/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
-
-    
-## :art: 其他  
-
-- ### 个人书单推荐
-    - [个人阅读书籍清单](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
-
-- ### 技术方向选择
-    - [选择技术方向都要考虑哪些因素](https://github.com/Snailclimb/Java-Guide/blob/master/其他/选择技术方向都要考虑哪些因素.md) 
-    
-- ### 2018 年秋招简单回顾
-    - [结束了我短暂的秋招，说点自己的感受](https://github.com/Snailclimb/JavaGuide/blob/master/%E5%85%B6%E4%BB%96/2018%20%E7%A7%8B%E6%8B%9B.md) 
  
 
 ***
